@@ -1,0 +1,1 @@
+let v = document.querySelector('.footer__version time');v.innerText = '0.0.1';
